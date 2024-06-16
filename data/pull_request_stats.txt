@@ -1,0 +1,6 @@
+Total Pull Requests: 6838
+Open Pull Requests: 31
+Closed Pull Requests: 6807
+Merged Pull Requests: 6420
+Average Time to Merge a Pull Request: 5.20 days
+Acceptance Rate: 93.89%
